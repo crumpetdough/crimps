@@ -1,0 +1,47 @@
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-right: 5px ridge #e8c2d3;
+    border-bottom: 5px ridge #e8c2d3;
+    border-left: 5px ridge #c98dc6;
+    border-top: 5px ridge #c98dc6;
+    border-radius: 5px;
+    font-size: 70px;
+    padding: 10px;
+}
+header {
+    text-align: center;
+    background: url("../images/expand.jpg");
+    background-size: cover;
+}
+ul {
+    padding: 0px;
+    background: #e5d3dd;
+    margin-bottom: 15px;
+}
+li {
+    display: inline;
+    padding: 0px 100px 0px 100px;
+}
+a {
+    color: black;
+}
+
+body {
+	background-image: url("../images/stars.jpg");
+    background-position: center;
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	color: #c98dc6;
+	text-align: center;
+    display: block;
+}
